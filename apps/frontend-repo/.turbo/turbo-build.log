@@ -1,0 +1,33 @@
+
+> @monorepo/frontend-repo@0.1.0 build
+> next build
+
+   ▲ Next.js 15.2.3
+   - Environments: .env.local
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/8) ...
+   Generating static pages (2/8) 
+   Generating static pages (4/8) 
+   Generating static pages (6/8) 
+ ✓ Generating static pages (8/8)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+┌ ○ /                                    1.43 kB         281 kB
+├ ○ /_not-found                            975 B         102 kB
+├ ○ /login-api                            3.4 kB         167 kB
+├ ○ /login-firebase                       1.4 kB         281 kB
+└ ○ /user                                9.09 kB         177 kB
++ First Load JS shared by all             101 kB
+  ├ chunks/315-d5edf99fe39bfcba.js       45.7 kB
+  ├ chunks/87c73c54-da52acc6206ed786.js  53.2 kB
+  └ other shared chunks (total)          1.96 kB
+
+
+○  (Static)  prerendered as static content
+

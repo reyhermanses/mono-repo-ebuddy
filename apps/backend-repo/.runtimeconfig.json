@@ -1,0 +1,11 @@
+{
+  "project": {
+    "id": "technical-test-ebuddy"
+  },
+  "private": {
+    "key": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvJAQluXkLWGJD\\nKauwANXejbZNHPcr3YoAhXB43PaeDoH4IolUrKji8KKH1vEKfIMa2zrXVcJbtGwk\\nFdg65ZSnwHkBJkkB08GcbM5KcZDC0P7PrXvRkEb6Qri15bB32V5/wBKmh0O9mhKn\\nAuBHIkwhU1xaKXgYuCw+m803AAv3QUcXhjEE8Mf4rY7X+R0/kVCKreCtZV5KBdXm\\nF5kOmPWKlPtIKo6n+oPw68ckuGCBIf9xCXFLUI3VWKDcd2buZ523oYBWdw/gOAMj\\nIqXah0q6I2ZwVhSCPF7uxR6S/QyD7MG1Aon5G59Tn+EQf0xQuF/Lqgulo4CqVwIy\\nHSsnFufBAgMBAAECggEAAeubQl5Mf2KZHziRf0T0aLPf6WwKzMJpgonJWtXnZq0X\\ni+TgYcXhNdh4G7+wVb0EQ1LfNrW5bhUmG2Yu6wRnPcih5bCUW9laddsz5C6Rwlpq\\nyimnjNEav3XkUxWWkACEOqfckdK0Btvt3kLCj/JxExYi0i1CucNT3t2JTD6rTZXM\\naftSbeMWovkB9diZvch94iSxvZo+dB6GBWQemenBxyR84lLtURsOQuSFBuVIrp/F\\n3hxBhAnKx5w/7bnNmG1KIq9XpxQjzsmj3bPAA9+CSXWpHRpCv8nlY1RIf2w6Vis3\\nuMMC6AvSXekrumqWQt1ZJ0FeE1/h6W9DinnN0ykZvQKBgQDfIyy5VdGYPgMO1daJ\\n0rBLRSfwGOHU5R0mLceW8eIPZaZ8Pz7maPxjtrtVZQ/Y6PHR54hgH1WVh8Gspj3I\\nVYIYvMq4Hm0YS51aBwXr/3cA7bG0O93HbCy+4+pG2f1qTlJ5TntFLyxEx8xniPyt\\nl8aDF/hyk2UALUVFzOYTsDwjxQKBgQDI7z+FroWScyfOtD3blDi/sa3DWTt2vUxj\\nZIrLFq3OR/zTea8DhnAWF6apPHH3C+YFJMIgxaAC4Ij0/g/StPaJxMjyKqJtDV0u\\nZ+x+nSfNtrstdwuqfzGsfZFd9T6KDOkkwKM7+wv5acKuX2h9m5qLDXaFAUcKAmUj\\naqTcKQJnzQKBgQC2f41Xs/Htw2I64vhJ1vDrTw+AFsm1lwIFNNIWCZUrpKbK3etz\\nBZDPeSe0iyiv7q3BUM3AWEBmQRdNPtYvIIh79QUUG4Z8pXN3q2DTiShqsP1zfLdC\\nIJ5kLgJxml7icFaR8ndtuUxKoOL0Fx0aWZU5qQRBqX2k7GHI2fGfTreRRQKBgEz3\\n2E1M3L2MfuMfB9LkpBhJ51W9CJojSO+Jw+Cnf0xVJvOa2P9wr97GkICjNsR7OlEe\\nE36aNQDlIZE3ALiluQps5sxcqHs9c0QjauPVLzoNlQWFZGKa9lwsfVKQbrRS3bvG\\nTsDbGWsgqAJDabMzt68sKQopwxyCbltyrlPnIZTBAoGACNAXiUC305Qnae9xocVF\\nlnsWGu43AqKGLiAFfXqY4iLf2JJE6oZSAZMzvXbUKSw0HYZwaCW0VeZJBWQav8tC\\nDqsTI1fl4OmOrDs6PQAhuzzD0TP6truRgEHVeByV5bcB39rTn7KLZhvy3apm2aKj\\n3xqb7mfCbkAAttk5aLsmI7A=\\n-----END PRIVATE KEY-----\\n"
+  },
+  "client": {
+    "email": "firebase-adminsdk-pksr9@technical-test-ebbudy.iam.gserviceaccount.com"
+  }
+}
