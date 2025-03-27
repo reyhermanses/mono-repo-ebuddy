@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, run the development server:
+First, if you wants to run partialy here's the development server:
 
 ```bash
 npm run dev
@@ -12,7 +12,7 @@ npm start
 npm run build && firebase emulators:start --only functions
 ```
 
-## Create file .env contains:
+## Requirement Create file .env contains:
 
 ```bash
 PORT=8001
